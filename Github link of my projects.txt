@@ -1,0 +1,6 @@
+https://github.com/Shivansh1980/SellingCart
+https://github.com/Shivansh1980
+
+I am not able to upload my full project here because the size limit is exceeding so,
+i have provided the link where i already uploaded my Python Django Project. You can 
+access from there.

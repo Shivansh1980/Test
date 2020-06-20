@@ -1,0 +1,35 @@
+TRAININGS:
+Ethical Hacking
+Internshala Trainings (Online)
+May 2020 - Present
+Training is on web application security having various details about SQL injection , CSRF attacks , IDOR vulnerabilities and many more .
+ 
+C++ Data Structure And Algorithm
+Cscope Academy (Gwalior)
+Nov 2019 - Mar 2020
+In this training i learnt about the competitive programming and various algorithm in Design analysis and algorithm . Topics like Dynamic Programming , Greedy Algorithms and graph based algorithm . i implemented them in c++.
+ 
+Python Training
+Numeric Infosystem Private Limited (Sandeep Sappal Gwalior) (Gwalior)
+Feb 2019 - Apr 2019
+i don't remind the exact date when i started this training but ya i did this training for 3 months when i was in 1st year
+ 
+PROJECTS:
+Jquery Calculator
+May 2019 - May 2020
+https://github.com/Shivansh1980/Jquery-Calculator.git
+Jquery Calculator
+ 
+Bank Management System (C++)
+Sep 2019 - Oct 2019
+This c++ mini project have the ability to add user through registration , performing transactions from one account to other account and authentication system too.
+ 
+JavaScript Animation on HTML5 canvas
+Apr 2019 - Apr 2019
+https://github.com/Shivansh1980/Animation-in-HTML5-canvas.git
+I have performed animation on html5 canvas using javascript
+ 
+SellingCart (Ecommerce Website) Python Django Framework , Bootstrap Basics , HTML ,CSS and Jquery
+May 2020 - Present
+https://github.com/Shivansh1980/SellingCart.git
+The website have authentication features , when authentication is done user can buy products available on the site . Website have uploading books features and those books becomes accessible for everyone . I have added Add to Cart features too in it.
